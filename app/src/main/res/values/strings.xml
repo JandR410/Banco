@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reto Banco Pichincha</string>
+    <string name="onboarding_title_1">Descubre nuestras recetas</string>
+    <string name="onboarding_title_2">Organiza tus favoritos</string>
+    <string name="onboarding_title_3">Crea una experiencia única</string>
+
+    <!-- Onboarding Buttons -->
+    <string name="next">Siguiente</string>
+    <string name="get_started">Empezar</string>
+</resources>
